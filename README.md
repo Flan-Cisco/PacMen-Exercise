@@ -13,4 +13,4 @@ Como trabajo a futuro se considera utilizar las imagenes proporcionadas para ref
 
 Repositorio posee una licencia de MIT
 
-<img src="./images/PacMan1.png">
+<img src="images/PacMan1.png">
