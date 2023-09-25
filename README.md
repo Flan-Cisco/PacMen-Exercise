@@ -1,9 +1,13 @@
 # pacmen
 Factory for making pacmen
-You are given a starter.html code.
-When button "make one" is pressed you need to complete the code 
-to position the new pacman image and add it to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman.
-You also need to make each pacman bounce off any wall it hits. 
-Start by getting at least one pacman positioned and viewable. 
+Dado un codigo inicial, agregar funcionalidades al boton "make one" y logica de movimiento, considerando los bordes de la pantalla como punto de retorno.
+Al presionar el boton "make one" este debe generar una nueva instancia de pacmen desde el punto de inicio, con una velocidad y direccion al azar.
+Cada instancia nueva de pacmen es almacenada en un array con el proposito de trackear la velocidad y posicion de cada pacmen por separado.
+
+Al presionar el boton "Start Game" se iniciara el movimiento de el/los pacmen creados, estos rebotaran en los bordes de la pantalla continuando su movimiento con una velocidad negativa.
+
+Para poder ejecutar el codigo se debe abrir el archivo .html en google chrome o firefox.
+
+Como trabajo a futuro se considera utilizar las imagenes proporcionadas para reflejar el movimiento del pacmen en el cambio de imagen.
 
 <img src="PacMan1.png">
