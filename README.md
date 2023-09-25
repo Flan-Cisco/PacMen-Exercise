@@ -10,4 +10,7 @@ Para poder ejecutar el codigo se debe abrir el archivo .html en google chrome o 
 
 Como trabajo a futuro se considera utilizar las imagenes proporcionadas para reflejar el movimiento del pacmen en el cambio de imagen.
 
-<img src="PacMan1.png">
+
+Repositorio posee una licencia de MIT
+
+<img src="./images/PacMan1.png">
