@@ -6,6 +6,8 @@ Cada instancia nueva de pacmen es almacenada en un array con el proposito de tra
 
 Al presionar el boton "Start Game" se iniciara el movimiento de el/los pacmen creados, estos rebotaran en los bordes de la pantalla continuando su movimiento con una velocidad negativa.
 
-Para poder ejecutar el codigo se debe abrir el archivo .html en google chrome o firefox
+Para poder ejecutar el codigo se debe abrir el archivo .html en google chrome o firefox.
+
+Como trabajo a futuro se considera utilizar las imagenes proporcionadas para reflejar el movimiento del pacmen en el cambio de imagen.
 
 <img src="PacMan1.png">
